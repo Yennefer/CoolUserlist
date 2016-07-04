@@ -1,0 +1,19 @@
+<resources>
+    <string name="app_name">Cool Userlist</string>
+
+    <string name="tv_empty_list_text">Список пользователей загружается…</string>
+    <string name="ac_share_text">Поделиться</string>
+
+    <string name="send_email_text">Отправить письмо с помощью:</string>
+
+    <string name="name_format">%1$s %2$s</string>
+    <string name="name_and_nat_format">%1$s %2$s (%3$s)</string>
+    <string name="address_format">%1$s, %2$s, %3$s, %4$s</string>
+    <string name="email_subject_format">Информация о пользователе %1$s %2$s</string>
+    <string name="email_text_format">%1$s %2$s (%3$s)\nEmail: %4$s\nPhone: %5$s\nAddress: %6$s\nPhoto: %7$s</string>
+
+    <string name="intent_user_key">user</string>
+
+    <string name="api_url">http://api.randomuser.me/</string>
+    <string name="api_error">Ошибка на randomuser.me. Данные не заружены.</string>
+</resources>
